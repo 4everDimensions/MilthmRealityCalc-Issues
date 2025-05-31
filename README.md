@@ -5,6 +5,6 @@ Milthm在线查分器的Bug反馈仓库。(mhtlim.top)
 
 反馈问题请前往：[Issues](https://github.com/4everDimensions/MilthmRealityCalc-Issues/issues)
 
-查分请前往：[http://mhtlim.top/](http://mhtlim.top/)
+查分请前往：[https://mhtlim.top/](https://mhtlim.top/)
 
 交流群：[Mhtlim#√-1 洨巟羣——㔔兒童](https://qm.qq.com/q/Utb6sNDvki)
